@@ -1,5 +1,8 @@
-.thecooltext {
+.thebackground {
 background-color: rgb(133, 134, 194);
 padding: 10px;
-margin-left: 25px;
+}
+.thecoolstuff {
+background-color: rgb(208, 208, 209);
+padding: 10px;
 }
