@@ -1,6 +1,6 @@
 body {
 background-color: rgb(133, 134, 194);
-padding: 10px;
+padding:10px,20px,30px,40px;
 margin:50px
 }
 .title {
