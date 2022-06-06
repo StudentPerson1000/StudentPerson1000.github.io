@@ -3,8 +3,7 @@
 }
 
 #main {
-    border-style: solid;
-    border-color: red;
+    background-color:bisque;
     border-width: 5px;
     text-align: center;
 }
