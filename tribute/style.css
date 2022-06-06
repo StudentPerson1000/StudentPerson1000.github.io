@@ -4,6 +4,7 @@
 
 #main {
     background-color:bisque;
+    border-left:20px;
     border-width: 5px;
     text-align: center;
 }
