@@ -1,9 +1,6 @@
-#image-div {
-    height:200px;
-}
-
 #main {
     background-color:bisque;
     margin-inline: 100px;
     text-align: center;
+    height:200px
 }
