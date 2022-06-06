@@ -3,6 +3,8 @@
 }
 
 #main {
-    padding: 20px;
-    
+    border-style: solid;
+    border-color: red;
+    border-width: 5px;
+    text-align: center;
 }
